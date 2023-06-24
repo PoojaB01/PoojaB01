@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pooja Bhagat</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently a Junior, Computer Science and Engineering Undergraduate at **Indian Institute Technology Guwahati**
+- 🔭 I’m currently working as a software engineer at **Optiver** in **Amsterdam, Netherlands**
 
-- 💬 Ask me about **Competitive Programming, Data Structures and Algorithms, Backend Web and App Development**
+- 🎓 Graduated from **Indian Institute of Technology, Guwahati, India** with Bachelor in Computer Science and Engineering.  
+
+- 💬 Ask me about **Backend Development, Competitive Programming, Data Structures and Algorithms**
 
 - 📫 Say Hi : **pooja.bhagat2000@gmail.com**
 <br>
